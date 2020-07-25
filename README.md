@@ -52,7 +52,7 @@ Fun fact: "There are two ways to write error-free programs; only the third one w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-> It doesn't mean any kind of hierarchy of skills, okay? <br>It's only a Github's metric of my most used languages in repositories, <br>you can learn more about it in [here](https://github.com/anuraghazra/github-readme-stats). Totally worth reading!
+> It doesn't mean any kind of hierarchy of skills, okay? <br>It's only a Github's metric of my most used languages, <br>you can learn more about it in [here](https://github.com/anuraghazra/github-readme-stats). Totally worth reading!
 
 <br>
 
