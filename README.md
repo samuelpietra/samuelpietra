@@ -59,7 +59,7 @@ Fun fact: "There are two ways to write error-free programs; only the third one w
 **And here are some nice statistics:**
 
 <p align="left">
-<img  width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpietra&show_icons=true&hide=starlark">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpietra&show_icons=true&langs_count=4&layout=compact">
 
-<img  width=390 src="https://github-readme-stats.vercel.app/api?username=samuelpietra&show_icons=true&count_private=true">
+<img  src="https://github-readme-stats.vercel.app/api?username=samuelpietra&show_icons=true&count_private=true&hide=stars,prs">
 </p>
