@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/samuelpietra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discord.com/channels/@me/3694" target="_blank">
+  <a href="https://discordapp.com/users/369583555564666882/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://open.spotify.com/user/samuelpietra?si=fJjQ2jF0T42JnBfWrsVPAQ" target="_blank">
+  <a href="https://open.spotify.com/user/samuelpietra" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%28a745.svg?&style=flat&logo=spotify&logoColor=white" alt="Spotify">
   </a>
   <a href="https://www.facebook.com/samuelpietra" target="_blank">
@@ -53,13 +53,3 @@ Fun fact: "There are two ways to write error-free programs; only the third one w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 > It doesn't mean any kind of hierarchy of skills, okay? <br>It's only a Github's metric of my most used languages, <br>you can learn more about it in [here](https://github.com/anuraghazra/github-readme-stats). Totally worth reading!
-
-<br>
-
-**And here are some nice statistics:**
-
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpietra&show_icons=true&langs_count=4&layout=compact">
-
-<img  src="https://github-readme-stats.vercel.app/api?username=samuelpietra&show_icons=true&count_private=true&hide=stars,prs">
-</p>
