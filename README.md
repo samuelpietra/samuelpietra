@@ -10,10 +10,10 @@
      <a href="https://github.com/samuelpietra/samuelpietra/issues">
        here
      </a>!
+     <br>
   </i>
 
-<br><br>
-
+<br>
   <a href="https://discordapp.com/users/369583555564666882/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
