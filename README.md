@@ -1,16 +1,12 @@
-<h1>Introduction</h1>
+<h1>Hello, world!</h1>
 
 <img src="assets/newDev.png" alt="Spotify">
 
 <br>
 
-<h1>FAQ</h1>
-
 Can I help you? Great! Let me know by clicking [here](https://github.com/samuelpietra/samuelpietra/issues)
 
 Or reach me on social media:
-
-<br>
 
 <p align="cleft">
   <a href="https://discordapp.com/users/369583555564666882/" target="_blank">
