@@ -2,7 +2,7 @@
 
 <img src="assets/newDev.png" alt="Spotify">
 
-<br><br>
+<br>
 
 <h1>FAQ</h1>
 
