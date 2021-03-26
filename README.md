@@ -4,6 +4,8 @@
 
 <br>
 
+<tr>
+
 Can I help you? Great! Let me know by clicking [here](https://github.com/samuelpietra/samuelpietra/issues)
 
 Or reach me on social media:
