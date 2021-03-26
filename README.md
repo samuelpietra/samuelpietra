@@ -2,8 +2,6 @@
 
 <img src="assets/newDev.png" alt="Spotify">
 
-<br>
-
 <h1></h1>
 
 <p align="center">
@@ -14,7 +12,7 @@
      </a>!
   </i>
 
-  <br>
+<br><br>
 
   <a href="https://discordapp.com/users/369583555564666882/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat&logo=discord&logoColor=white" alt="Discord">
