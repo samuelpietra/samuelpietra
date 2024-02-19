@@ -1,8 +1,40 @@
 <h1>Hello, world!</h1>
 
-<img src="assets/newDev.png" alt="Spotify">
+```json
+{
+  "name": "Samuel Pietra",
+  "role": "Frontend Engineer",
+  "location": "Belo Horizonte, BR",
+  "worksRemotely": true
+}
+```
 
-<h1></h1>
+<br>
+
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://storybook.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/>
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <i>Can I help you? Great!
@@ -12,17 +44,3 @@
      </a>!
      <br>
   </i>
-
-<br>
-  <a href="https://discordapp.com/users/369583555564666882/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/samuelpietra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="https://open.spotify.com/user/samuelpietra" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-%28a745.svg?&style=flat&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</p>
