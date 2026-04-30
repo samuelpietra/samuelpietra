@@ -8,7 +8,7 @@
       <br />
       <sub>Sr. Frontend Engineer</sub>
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18" height="18" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="18" height="18" />](https://www.typescriptlang.org) &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="18" height="18" />](https://react.dev) &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="18" height="18" />](https://www.figma.com) &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="18" height="18" />](https://storybook.js.org)
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18" height="18" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="18" height="18" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="18" height="18" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="18" height="18" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="18" height="18" /></p>
     </td>
   </tr>
 </table>
