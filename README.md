@@ -9,7 +9,7 @@
         <strong>Samuel Pietra ↗</strong>
       </a>
       <br />
-      <small>Frontend Engineer</small>
+      <sub>Frontend Engineer</sub>
     </td>
   </tr>
 </table>
