@@ -8,8 +8,15 @@
         <br />
         <strong>Samuel Pietra ↗</strong>
       </a>
+    </td>
+    <td align="center">
+      <strong>Sr. Frontend Engineer</strong>
       <br />
-      <sub>Frontend Engineer</sub>
+      <sub>React.js • TypeScript</sub>
+      <br />
+      <sub>8+ years experience</sub>
+      <br />
+      <sub>Belo Horizonte, BR</sub>
     </td>
   </tr>
 </table>
