@@ -2,19 +2,15 @@
 
 <table>
   <tr>
-    <td
-      style="padding:0;"
-      width="85"
-    >
+    <td width="85" align="center">
       <img
         alt="Samuel Pietra"
         src="https://github.com/samuelpietra.png?size=160"
         width="85"
         height="85"
-        style="display:block;width:85px;height:85px;"
       />
     </td>
-    <td valign="top">
+    <td valign="middle">
       <a
         href="https://linkedin.com/in/samuelpietra"
         target="_blank"
@@ -22,9 +18,8 @@
       >
         <strong>Samuel Pietra ↗</strong>
       </a>
-      <sub style="display:block;margin-top:8px;">
-        Sr. Frontend Engineer
-      </sub>
+      <br />
+      <sub>Sr. Frontend Engineer</sub>
     </td>
   </tr>
 </table>
